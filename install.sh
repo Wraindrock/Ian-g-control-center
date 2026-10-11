@@ -15,7 +15,7 @@ else
 fi
 
 readonly APP_NAME="g15-control-center"
-readonly REPO_SLUG="Grant-Felix/ian-awcc-bazzite"
+readonly REPO_SLUG="Wraindrock/Ian-g-control-center"
 readonly REPO_URL="https://github.com/${REPO_SLUG}"
 readonly REPO_GIT="https://github.com/${REPO_SLUG}.git"
 readonly UPSTREAM_URL="https://github.com/AndersonDinizDev/g15-control-center"

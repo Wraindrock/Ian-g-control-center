@@ -45,8 +45,8 @@ Centro de controle nativo para notebooks Dell G15 no Linux. Construído sobre `s
 ## Instalação
 
 ```bash
-git clone https://github.com/Grant-Felix/ian-awcc-bazzite.git
-cd ian-awcc-bazzite
+git clone https://github.com/Wraindrock/Ian-g-control-center.git
+cd Ian-g-control-center
 sudo ./install.sh
 ```
 
@@ -110,7 +110,7 @@ Este software interage diretamente com sysfs/ACPI. Use por sua conta e risco.
 **Desenvolvido para a comunidade Dell G15 no Linux.**
 
 ---
-## Fork: ian-awcc-bazzite
+## Fork: Ian-g-control-center
 
 Este fork adiciona:
 

@@ -77,13 +77,13 @@
 不依赖任何本地目录，自动下载并安装：
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Grant-Felix/ian-awcc-bazzite/main/install.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/Wraindrock/Ian-g-control-center/main/install.sh | sudo bash
 ```
 
 或先下载再执行（想看一眼脚本内容时用）：
 
 ```bash
-curl -fsSL -o install.sh https://raw.githubusercontent.com/Grant-Felix/ian-awcc-bazzite/main/install.sh
+curl -fsSL -o install.sh https://raw.githubusercontent.com/Wraindrock/Ian-g-control-center/main/install.sh
 sudo bash install.sh
 ```
 
@@ -92,8 +92,8 @@ sudo bash install.sh
 ### 从本地克隆安装
 
 ```bash
-git clone https://github.com/Grant-Felix/ian-awcc-bazzite.git
-cd ian-awcc-bazzite
+git clone https://github.com/Wraindrock/Ian-g-control-center.git
+cd Ian-g-control-center
 sudo ./install.sh
 ```
 
@@ -119,7 +119,7 @@ sudo ./uninstall.sh
 或一条命令：
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Grant-Felix/ian-awcc-bazzite/main/uninstall.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/Wraindrock/Ian-g-control-center/main/uninstall.sh | sudo bash
 ```
 
 安装脚本会：

@@ -41,9 +41,9 @@ dev = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/Grant-Felix/ian-awcc-bazzite"
-"Bug Reports" = "https://github.com/Grant-Felix/ian-awcc-bazzite/issues"
-"Source" = "https://github.com/Grant-Felix/ian-awcc-bazzite"
+"Homepage" = "https://github.com/Wraindrock/Ian-g-control-center"
+"Bug Reports" = "https://github.com/Wraindrock/Ian-g-control-center/issues"
+"Source" = "https://github.com/Wraindrock/Ian-g-control-center"
 "Upstream" = "https://github.com/AndersonDinizDev/g15-control-center"
 
 [project.scripts]

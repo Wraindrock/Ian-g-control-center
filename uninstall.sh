@@ -40,7 +40,7 @@ Dell G15/G16 控制中心 —— 卸载脚本
 
 用法：
   sudo ./uninstall.sh
-  curl -fsSL https://github.com/Grant-Felix/ian-awcc-bazzite/raw/main/uninstall.sh | sudo bash
+  curl -fsSL https://github.com/Wraindrock/Ian-g-control-center/raw/main/uninstall.sh | sudo bash
 
 本脚本会删除：
   ${INSTALL_DIR}
